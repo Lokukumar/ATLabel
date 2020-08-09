@@ -1,0 +1,16 @@
+PODS:
+  - ATLabel (0.1.0)
+
+DEPENDENCIES:
+  - ATLabel (from `../`)
+
+EXTERNAL SOURCES:
+  ATLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ATLabel: b6d0e1d3ef1b66bd282f044d781037e2a4cf1b55
+
+PODFILE CHECKSUM: fee5e69802c16799d6856b1f195d113b92ca3e4d
+
+COCOAPODS: 1.9.3

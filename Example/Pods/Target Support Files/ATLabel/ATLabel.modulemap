@@ -1,0 +1,6 @@
+framework module ATLabel {
+  umbrella header "ATLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}
